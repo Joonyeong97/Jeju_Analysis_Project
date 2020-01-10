@@ -1,1 +1,4 @@
 http://www.bigdata.go.kr/analysis18.html
+
+https://bigdata.seoul.go.kr/noti/selectPageListNoti.do?r_id=P440&bbs_seq=&sch_type=&sch_text=&currentPage=2
+서울시 빅데이터 공모전 ppt 결과발표들
