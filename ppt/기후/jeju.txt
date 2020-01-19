@@ -9,3 +9,7 @@
 온도가 착색에 영향
 
 국가 농식품통계 서비스 - 강수량, 온도.
+
+
+기상청 날씨통계
+https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
