@@ -1,4 +1,4 @@
-﻿가	Josa
+가	Josa
 가게	Noun
 가게마씀	Verb
 가곡	Verb
@@ -113,7 +113,7 @@
 겡	Noun
 겡이	Noun
 경	Adjective
-경 했구나	Exclamation
+경했구나	Exclamation
 경도	Noun
 경해	Noun
 경해도	Verb
@@ -243,7 +243,7 @@
 기시리다	Verb
 기시린	Adjective
 기여	Verb
-까지	Eomi
+까지	suffix
 까짓거	Noun
 꺼	Noun
 껍데기	Noun
@@ -1010,7 +1010,6 @@
 야굴탁	Noun
 약	Noun
 얄룹게	Adjective
-양	Modifier
 양나	Adverb
 양누게	Adjective
 양들어	Noun
@@ -1322,7 +1321,6 @@
 줍서경	Verb
 중이	Noun
 줨쑤과	Verb
-지	Modifier
 지곡	Noun
 지꺼짐이	Noun
 지는거여	Noun

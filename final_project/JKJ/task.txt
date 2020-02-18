@@ -1,9 +1,0 @@
-preprocessing
-
-1. 음절단위
-
-2. 품사태깅
-from konlpy.tag 	http://konlpy.org/en/latest/api/konlpy.tag/
-import Hannanum / Kkma / Komoran / Mecab / Okt
-
-+ 카카오 khakii
